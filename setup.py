@@ -21,7 +21,7 @@ setup(
         "dnspython>=1.11.0",
         "paramiko>=1.11.0",
         "flask==0.10.1",
-        "werkzeug==0.9.3",
+        "werkzeug==0.15.3",
         "itsdangerous==0.23",
         "docopt>=0.6.1",
         "python-daemon>=1.5.5",
